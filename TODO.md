@@ -16,7 +16,7 @@
     - total
 
 - OrderStatus
-    - name (DONE, IN PREPARATION, SENT, DELIVERED, FINISHED)
+    - name (ACOMPLISHED, IN PREPARATION, SENT, DELIVERED, FINISHED)
 
 - OrderItem
     - product_id

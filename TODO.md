@@ -5,7 +5,6 @@
     - email
 
 - Product
-
     - name
     - description
     - price

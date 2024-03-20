@@ -1,5 +1,7 @@
 # Ordering System
 
+Repository to add some of my Python knowledge
+
 #
 
 <br>
